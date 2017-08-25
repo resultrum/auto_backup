@@ -44,6 +44,7 @@ Automatic backup for all such configured databases can then be scheduled as foll
     "init_xml" : [],
     "demo_xml" : [],
     "update_xml" : ["bkp_conf_view.xml","backup_data.xml"],
+    "data": ['security/ir.model.access.csv', 'security/user_groups.xml'],
     "active": False,
     "installable": True
 }

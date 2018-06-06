@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 {
     'name' : 'Database Auto-Backup',
-    'version' : '10.0',
+    'version' : '10.0.1.0.0',
     'author' : 'VanRoey.be - Yenthe Van Ginneken',
     'website' : 'http://www.vanroey.be/applications/bedrijfsbeheer/odoo',
     'category' : 'Generic Modules',
@@ -12,8 +12,8 @@ If you want to write to an external server with SFTP you will need to provide th
 The base of this module is taken from Odoo SA V6.1 (https://www.odoo.com/apps/modules/6.0/auto_backup/) and then upgraded and heavily expanded.
 This module is made and provided by VanRoey.be.
 
-Automatic backup for all such configured databases can then be scheduled as follows:  
-                      
+Automatic backup for all such configured databases can then be scheduled as follows:
+
 1) Go to Settings / Technical / Automation / Scheduled actions.
 2) Search the action 'Backup scheduler'.
 3) Set it active and choose how often you wish to take backups.

@@ -1,0 +1,13 @@
+odoo/__init__.py
+odoo/addons/__init__.py
+odoo/addons/auto_backup/__init__.py
+odoo/addons/auto_backup/__manifest__.py
+odoo/addons/auto_backup/models/__init__.py
+odoo/addons/auto_backup/models/db_backup.py
+odoo10_addon_auto_backup.egg-info/PKG-INFO
+odoo10_addon_auto_backup.egg-info/SOURCES.txt
+odoo10_addon_auto_backup.egg-info/dependency_links.txt
+odoo10_addon_auto_backup.egg-info/namespace_packages.txt
+odoo10_addon_auto_backup.egg-info/not-zip-safe
+odoo10_addon_auto_backup.egg-info/requires.txt
+odoo10_addon_auto_backup.egg-info/top_level.txt
